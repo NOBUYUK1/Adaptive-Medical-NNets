@@ -53,4 +53,17 @@ data/embryo/ed2/alldata/5/452.png 4
 data/embryo/ed2/alldata/5/432.png 4
 data/embryo/ed2/alldata/5/413.png 4
 data/embryo/ed2/alldata/5/568.png 4
-d
+data/embryo/ed2/alldata/5/468.png 4
+data/embryo/ed2/alldata/5/560.png 4
+data/embryo/ed2/alldata/4/549.png 3
+data/embryo/ed2/alldata/4/443.png 3
+data/embryo/ed2/alldata/4/435.png 3
+data/embryo/ed2/alldata/4/416.png 3
+data/embryo/ed2/alldata/4/474.png 3
+data/embryo/ed2/alldata/4/472.png 3
+data/embryo/ed2/alldata/4/475.png 3
+data/embryo/ed2/alldata/4/433.png 3
+data/embryo/ed2/alldata/4/555.png 3
+data/embryo/ed2/alldata/3/449.png 2
+data/embryo/ed2/alldata/3/451.png 2
+data/embryo/ed2/alldata/3/446.png 2
