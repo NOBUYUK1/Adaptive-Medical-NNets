@@ -1,0 +1,10 @@
+data/embryo/ed4/alldata/2/86.png 0
+data/embryo/ed4/alldata/2/65.png 0
+data/embryo/ed4/alldata/2/155.png 0
+data/embryo/ed4/alldata/2/216.png 0
+data/embryo/ed4/alldata/2/197.png 0
+data/embryo/ed4/alldata/2/194.png 0
+data/embryo/ed4/alldata/2/98.png 0
+data/embryo/ed4/alldata/2/21.png 0
+data/embryo/ed4/alldata/2/140.png 0
+data/em
