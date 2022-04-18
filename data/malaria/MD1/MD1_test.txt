@@ -1,0 +1,19 @@
+data/malaria/MD1/Parasitized/IMG_20191218_161327829_HDR_1243_2270.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_160645549_HDR_2699_2377.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_162924358_HDR_903_794-.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_184034835_HDR_1960_4207.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_161638519_HDR_2066_3070.png 1
+data/malaria/MD1/Parasitized/IMG_20191219_104906730_HDR_2054_2278.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_184149599_HDR_1159_1732.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_164959296_HDR_2265_862.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_165636525_HDR_1873_3102-.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_160418062_HDR_2865_1994.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_163332238_HDR_1057_2946-.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_161041511_HDR_874_509.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_184119534_HDR_724_4568.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_160931040_HDR_587_1160.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_161135555_HDR_2560_2992.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_162736407_HDR_1400_2035-.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_183904095_HDR_2372_1774.png 1
+data/malaria/MD1/Parasitized/IMG_20191218_165744036_HDR_1767_2469-.png 1
+data/malaria/MD1/Parasitized/IMG_2019
