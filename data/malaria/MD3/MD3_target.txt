@@ -1,0 +1,6 @@
+data/malaria/MD3/Parasitized/Image_07_1103_83.png 1
+data/malaria/MD3/Parasitized/Image_03_203_798.png 1
+data/malaria/MD3/Parasitized/Image_12_1829_350.png 1
+data/malaria/MD3/Parasitized/Image_12_864_739.png 1
+data/malaria/MD3/Parasitized/Image_06_1862_1307.png 1
+data/malaria/MD3/Parasitized/Image_10_863_611.pn
